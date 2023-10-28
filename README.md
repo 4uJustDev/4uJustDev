@@ -1,20 +1,11 @@
-### Hi there 👋
-https://media.giphy.com/media/PoHs1Ne8rcMuZRJted/giphy.gif
+### I welcome everybody at my repo 👦
+
+- ❤ I like WebDev.
+- 💻 I’m currently learning web frameworks such as Vue.
+- 👯 I’m looking for job because i want to earn money, it's obviously.
+- 🏦 I’m worked at a factory and I didn't like it at all.
+- ⚡ Fun fact: I always pay attention on minor think.
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/PoHs1Ne8rcMuZRJted/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="200"/>
 </div>
-<!--
-**4uJustDev/4uJustDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
