@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FF8C0&lines=I+welcome+everybody+at+my+repo)](https://git.io/typing-svg)
+<div align="center">
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FF8C0&lines=I+welcome+everybody+at+my+repo)](https://git.io/typing-svg)
+  
+</div>
 
 - ♥️ I realy interested in Computer Science.
 - 👯 If i work - i work, i'm not watching tictok or play on phone.
